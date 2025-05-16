@@ -68,12 +68,9 @@
     <p>&copy;2012 todd helmenstine <br> about chemistry</p>
   </div>
   <div class="periodic-table">
-    <!-- Period 1 -->
     <div class="element">H<br>1<br>1.00794</div>
     <div class="placeholder" style="grid-column: span 16"></div>
     <div class="element">He<br>2<br>4.002602</div>
-
-    <!-- Period 2 -->
     <div class="element">Li<br>3<br>6.941</div>
     <div class="element">Be<br>4<br>9.012182</div>
     <div class="placeholder" style="grid-column: span 10"></div>
@@ -83,8 +80,6 @@
     <div class="element">O<br>8<br>15.9994</div>
     <div class="element">F<br>9<br>18.9984032</div>
     <div class="element">Ne<br>10<br>20.1797</div>
-
-    <!-- Period 3 -->
     <div class="element">Na<br>11<br>22.989770</div>
     <div class="element">Mg<br>12<br>24.3050</div>
     <div class="placeholder" style="grid-column: span 10"></div>
@@ -95,7 +90,7 @@
     <div class="element">Cl<br>17<br>35.453</div>
     <div class="element">Ar<br>18<br>39.948</div>
 
-    <!-- Period 4 -->
+    
     <div class="element">K<br>19<br>39.0983</div>
     <div class="element">Ca<br>20<br>40.078</div>
     <div class="element">Sc<br>21<br>44.955912</div>
@@ -115,7 +110,6 @@
     <div class="element">Br<br>35<br>79.904</div>
     <div class="element">Kr<br>36<br>83.798</div>
     
-    <!-- Period 5 -->
 
     <div class="element">Rb<br>37<br>85.4878</div>
     <div class="element">Sr<br>38<br>87.62</div>
@@ -136,7 +130,6 @@
     <div class="element">I<br>53<br>126.90447</div>
     <div class="element">Xe<br>54<br>131.293</div>
 
-    <!-- Period 6 -->
 
     <div class="element">Cs<br>55<br>85.4878</div>
     <div class="element">Ba<br>56<br>87.62</div>
@@ -177,9 +170,6 @@
     <div class="element">Lv<br>116<br> [293]</div>
     <div class="element">Uus<br>117<br>[294]</div>
     <div class="element">Uuo<br>118<br>[294]</div>
-
-    <!-- Period 7 -->
-    <!-- Continue similarly with elements 87 to 118 -->
   </div>
   
   <div class="footer">
